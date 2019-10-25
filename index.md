@@ -1,5 +1,3 @@
-# alkemann.github.io
-
 Placeholder, I just learned this was a thing.
 
 ## Projects
